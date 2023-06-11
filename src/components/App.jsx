@@ -1,9 +1,11 @@
 import { Layout } from 'components/Layout/Layout';
-import { lazy, useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { lazy
+//         , useEffect
+       } from 'react';
+// import { useDispatch, useSelector } from 'react-redux';
 import { Route, Routes } from 'react-router-dom';
-import { refreshUser } from 'redux/auth/authOperations';
-import { selectIsRefreshing } from 'redux/selectors';
+// import { refreshUser } from 'redux/auth/authOperations';
+// import { selectIsRefreshing } from 'redux/selectors';
 import { RestrictedRoute } from './RestrictedRoute';
 import { PrivateRoute } from './PrivateRoute';
 
