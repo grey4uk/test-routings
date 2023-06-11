@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-routings/static/css/main.7cda0caf.css",
-    "main.js": "/test-routings/static/js/main.1a51a770.js",
+    "main.js": "/test-routings/static/js/main.31831439.js",
     "static/js/485.2c9b4664.chunk.js": "/test-routings/static/js/485.2c9b4664.chunk.js",
     "static/js/427.07220dda.chunk.js": "/test-routings/static/js/427.07220dda.chunk.js",
     "static/js/284.394c6541.chunk.js": "/test-routings/static/js/284.394c6541.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/568.6b837298.chunk.js": "/test-routings/static/js/568.6b837298.chunk.js",
     "index.html": "/test-routings/index.html",
     "main.7cda0caf.css.map": "/test-routings/static/css/main.7cda0caf.css.map",
-    "main.1a51a770.js.map": "/test-routings/static/js/main.1a51a770.js.map",
+    "main.31831439.js.map": "/test-routings/static/js/main.31831439.js.map",
     "485.2c9b4664.chunk.js.map": "/test-routings/static/js/485.2c9b4664.chunk.js.map",
     "427.07220dda.chunk.js.map": "/test-routings/static/js/427.07220dda.chunk.js.map",
     "284.394c6541.chunk.js.map": "/test-routings/static/js/284.394c6541.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.7cda0caf.css",
-    "static/js/main.1a51a770.js"
+    "static/js/main.31831439.js"
   ]
 }
