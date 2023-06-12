@@ -6,7 +6,7 @@ import { lazy
 import { Route, Routes } from 'react-router-dom';
 // import { refreshUser } from 'redux/auth/authOperations';
 // import { selectIsRefreshing } from 'redux/selectors';
-import { RestrictedRoute } from './RestrictedRoute';
+// import { RestrictedRoute } from './RestrictedRoute';
 import { PrivateRoute } from './PrivateRoute';
 
 const HomePage = lazy(() => import('../pages/Home/Home'));
